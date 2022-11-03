@@ -1,0 +1,362 @@
+{
+  "TestLedsGameData": {
+    "GearEx": 0,
+    "FuelMax": 100.0,
+    "RPMSMax": 10000.0,
+    "TurboMax": 3.5,
+    "TurnIndicatorLeftEnabled": false,
+    "TurnIndicatorRightEnabled": false,
+    "SessionBestDeltaEx": 0.0,
+    "AllTimeBestDeltaEx": 0.0,
+    "DRSEnabled": false,
+    "DRSAvailable": false,
+    "MaxRpm": 10000.0,
+    "GameRunning": true,
+    "GameName": null,
+    "Fuel": 0.0,
+    "RPMPercent": 100.0,
+    "RPMRedlineReached": true,
+    "SpeedKmh": 0.0,
+    "SpeedMph": 0.0,
+    "Turbo": 0.0,
+    "TurboPercent": 0.0,
+    "Gear": "N",
+    "IsInPitLane": false,
+    "PitLimiterOn": false,
+    "AbsEnabled": false,
+    "AbsActive": false,
+    "TCEnabled": false,
+    "TCActive": false,
+    "LowFuelAlert": false,
+    "SpotterCarLeft": false,
+    "SpotterCarRight": false,
+    "BlackFlag": false,
+    "YellowFlag": false,
+    "WhiteFlag": false,
+    "BlueFlag": false,
+    "GreenFlag": false,
+    "CarModel": null,
+    "CarStartedTime": "0001-01-01T00:00:00",
+    "SessionBestDelta": 0.0,
+    "AllTimeBestDelta": 0.0
+  },
+  "LedContainers": [
+    {
+      "ClearBackgroundWhenActive": false,
+      "Positions": [
+        {
+          "Position": 7,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 8,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 9,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 10,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 11,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 12,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 13,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 14,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 15,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 16,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 17,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 18,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 19,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 20,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 21,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 22,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 23,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 24,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 1,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 2,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 3,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 4,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 5,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 6,
+          "IsNaturalPosition": false
+        },
+        {
+          "Position": 25,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 26,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 27,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 28,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 29,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 30,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 31,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 32,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 33,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 34,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 35,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 36,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 37,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 38,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 39,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 40,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 41,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 42,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 43,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 44,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 45,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 46,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 47,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 48,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 49,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 50,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 51,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 52,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 53,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 54,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 55,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 56,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 57,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 58,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 59,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 60,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 61,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 62,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 63,
+          "IsNaturalPosition": true
+        },
+        {
+          "Position": 64,
+          "IsNaturalPosition": true
+        }
+      ],
+      "LedContainers": [
+        {
+          "UseMph": false,
+          "SpeedMin": 0.0,
+          "SpeedMax": 200.0,
+          "StartColor": "8, 160, 229",
+          "EndColor": "8, 160, 229",
+          "GradientOnAll": false,
+          "RightToLeft": true,
+          "LedCount": 12,
+          "UseLedDimming": true,
+          "FillAllLeds": false,
+          "StartPosition": 13,
+          "ContainerId": "31cba3fa-69ee-43eb-8a15-b3b2c03c5561",
+          "ContainerType": "SimHub.Plugins.DataPlugins.RGBDriver.LedsContainers.SpeedContainer",
+          "Description": "Show leds gradient based on current car speed",
+          "IsEnabled": true
+        },
+        {
+          "RpmMode": 0,
+          "OverrideMaxRPMWithRedlineValue": false,
+          "PercentMin": 80.0,
+          "PercentMax": 100.0,
+          "RPMMin": 0.0,
+          "RPMMax": 8000.0,
+          "BlinkDelay": 80,
+          "StartColor": "131, 212, 131",
+          "EndColor": "131, 212, 131",
+          "GradientOnAll": false,
+          "RightToLeft": false,
+          "LedCount": 12,
+          "BlinkEnabled": true,
+          "BlinkOnLastGear": false,
+          "UseLedDimming": true,
+          "FillAllLeds": false,
+          "RelativeToRedline": false,
+          "StartPosition": 1,
+          "ContainerId": "c6ddcdbe-4f9d-4b0b-9c76-3bd800f1cdc2",
+          "ContainerType": "SimHub.Plugins.DataPlugins.RGBDriver.LedsContainers.RPMContainer",
+          "Description": "Show leds gradient based on car RPMs",
+          "IsEnabled": true
+        }
+      ],
+      "StackLeftToRight": false,
+      "StartPosition": 1,
+      "ContainerId": "478ea1a6-82dd-45b7-b0a7-68678bc73d3e",
+      "ContainerType": "SimHub.Plugins.DataPlugins.RGBDriver.LedsContainers.Groups.RemapGroupContainer",
+      "Description": "Reorder leds",
+      "IsEnabled": true
+    }
+  ],
+  "GlobalBrightness": 50.0,
+  "UseProfileBrightness": false,
+  "Error": "",
+  "LastLoaded": "2022-10-30T17:26:41.2434768-07:00",
+  "Name": "Horizontal RPM (80-100%) - Speed (0-200kmph)",
+  "ProfileId": "4f6653fe-5797-4a07-b335-32048cc1e067",
+  "GameCode": null
+}
