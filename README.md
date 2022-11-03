@@ -4,6 +4,9 @@ I'm providing some sample meter configurations for the FRG in SimHub
 
 They're provided in separate folders because SimHub manages both components separately.
 
+Video with some samples:
+https://www.youtube.com/watch?v=ycWpWfiqpsU
+
 ## RGB-LEDs
 In this folder you can find the "RGB Leds" tab profiles for the meter ring of LEDs. You can import these configurations from SimHub's UI directly and even pick specific games you want the configuration applied. 
 To use
@@ -30,3 +33,4 @@ To use
 
 Read more about OLED drawing configs here:
 https://github.com/SHWotever/SimHub/issues/571
+
