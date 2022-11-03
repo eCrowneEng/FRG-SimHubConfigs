@@ -6,7 +6,15 @@ They're provided in separate folders because SimHub manages both components sepa
 
 ## RGB-LEDs
 In this folder you can find the "RGB Leds" tab profiles for the meter ring of LEDs. You can import these configurations from SimHub's UI directly and even pick specific games you want the configuration applied. 
-To use, go to the "Arduino" section, then the RGB Leds tab, then click "Profiles manager" and select the icon to "Import Profile". Pick the profile you want to import. Then you can edit it to apply it specifically to a game, or be active for all games.
+To use
+ - Go to the "Arduino" section, 
+ - Go to RGB Leds tab
+ - Click "Profiles manager"
+ - Select the icon to "Import Profile"
+ - Pick the profile file you want to import
+ - You can edit it to apply it specifically to a game, or be active for all games.
+ - Customize colors, brightness or values
+ - You can click "Open test data editor" to set some test values and checkout how it looks
 
 ## OLED
 In this folder you can find configurations for the OLED screen. 
