@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=ycWpWfiqpsU
 
 ## RGB-LEDs
 In this folder you can find the "RGB Leds" tab profiles for the meter ring of LEDs. You can import these configurations from SimHub's UI directly and even pick specific games you want the configuration applied. 
+
+Keep in mind that these profiles don't include your current configuration for LEDs, which means if you have a wheel that uses simhub for its effects, this will not include those effects. In order to keep all current effects, make sure your meter is NOT the first device in the list of arduinos, and add the same effects that these profiles use, but offset by however many LEDs your higher priority devices have. Example: you have a wheel with 16 LEDs; connect your gauge, let it be recognized by simhub, make sure it's the second device (LEDs 17-40), create a new LED effect that starts with LED #17 and LED count of 24.
+
 To use
  - Go to the "Arduino" section, 
  - Go to RGB Leds tab
